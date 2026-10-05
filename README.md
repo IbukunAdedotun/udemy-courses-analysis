@@ -18,7 +18,11 @@ Which subjects, prices and course types attract the most learners and revenue, a
 
 - 3,676 courses across four subjects: Web Development, Business Finance, Graphic Design and Musical Instruments.
 - Courses published between July 2011 and July 2017.
-- Source: [add the name and link of the dataset you downloaded]
+- Source: Four Udemy course datasets from the Entry Level Data Analyst programme (Module 3, Collecting and Cleaning Data), combined into one workbook:
+  - [Web Development](https://content.cloudfront.entrylevel.net/experience/data-analyst/module-3-collecting-cleaning-data/3.1-data-sheet-udemy-courses-web-development.csv)
+  - [Business Finance](https://content.cloudfront.entrylevel.net/experience/data-analyst/module-3-collecting-cleaning-data/3.1-data-sheet-udemy-courses-business-courses.csv)
+  - [Graphic Design](https://content.cloudfront.entrylevel.net/experience/data-analyst/module-3-collecting-cleaning-data/3.1-data-sheet-udemy-courses-design-courses.csv)
+  - [Musical Instruments](https://content.cloudfront.entrylevel.net/experience/data-analyst/module-3-collecting-cleaning-data/3.1-data-sheet-udemy-courses-music-courses.csv)
 - Revenue is estimated as list price multiplied by subscribers. It ignores discounts, refunds and Udemy's share.
 - The workbook in `data/` contains the raw data, the cleaned data and the pivot tables.
 
